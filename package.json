@@ -16,6 +16,9 @@
     "npm-run-all": "^4.1.5",
     "eslint": "^8.3.0"
   },
+  "keywords": [
+    "kintone"
+  ],
   "author": "Masashi Hamaguchi",
   "license": "MIT"
 }
