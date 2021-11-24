@@ -1,0 +1,27 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "icon": "image/icon.png",
+  "name": {
+    "en": "environment variable setting plugin",
+    "ja": "環境変数設定プラグイン"
+  },
+  "description": {
+    "en": "environment variable setting plugin",
+    "ja": "JavaScriptカスタマイズ等で使用する環境変数をアプリごとに設定できるプラグインです。"
+  },
+  "config": {
+    "html": "html/config.html",
+    "js": [
+      "https://js.cybozu.com/jquery/3.3.1/jquery.min.js",
+      "https://js.cybozu.com/sweetalert2/v10.10.4/sweetalert2.min.js",
+      "js/config.js"
+    ],
+    "css": [
+      "https://js.cybozu.com/sweetalert2/v10.10.4/sweetalert2.min.css",
+      "css/51-modern-default.css",
+      "css/config.css"
+    ]
+  }
+}

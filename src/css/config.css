@@ -1,0 +1,16 @@
+.settings-heading {
+  padding: 1em 0;
+}
+
+.kintoneplugin-input-text {
+  width: 20em;
+}
+
+a {
+  color: #158ec2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
